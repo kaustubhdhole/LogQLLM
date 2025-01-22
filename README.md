@@ -30,3 +30,13 @@ Order of running the scripts:
 
 ## Fine-Tuning
 [finetuning/](finetuning/): This directory contains the scripts for fine-tuning the LLMs on the dataset.
+
+## Citation
+```bibtex
+@article{seshagiri2024chatting,
+  title={Chatting with Logs: An exploratory study on Finetuning LLMs for LogQL},
+  author={Seshagiri, Vishwanath and Balyan, Siddharth and Anand, Vaastav and Dhole, Kaustubh and Sharma, Ishan and Wildani, Avani and Cambronero, Jos{\'e} and Z{\"u}fle, Andreas},
+  journal={arXiv preprint arXiv:2412.03612},
+  year={2024}
+}
+```
